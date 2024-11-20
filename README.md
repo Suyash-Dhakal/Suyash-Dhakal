@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@suyash.dhakal2](https://medium.com/@suyash.dhakal2)
 
-- 📫 How to reach me **suyash.dhakal2@gmail.com**
+- 📫 How to reach me **mail@dhakalsuyash.com.np**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
