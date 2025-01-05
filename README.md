@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash-dhakal&label=Profile%20views&color=0e75b6&style=flat" alt="suyash-dhakal" /> </p>
 
-- 🌱 I’m currently learning **Laravel** **&** **DSA**
+- 🌱 I’m currently learning **Full Stack Development** **&** **Generative AI**
 
 - 📝 I regularly write articles on [https://medium.com/@suyash.dhakal2](https://medium.com/@suyash.dhakal2)
 
